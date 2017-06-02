@@ -1,0 +1,11 @@
+{
+    "Author": "Alex Saez",
+    "Name": "Tarta a la alex",
+    "Ingredients": ["Masa", "Espinaca", "Cebolla", "Queso"],
+    "Steps": ["Sacar la masa",
+        "Poner la espinaca cebolla y queso", 
+        "Poner al horno",
+        "Esperar",
+        "Sacar del horno"
+    ]
+}

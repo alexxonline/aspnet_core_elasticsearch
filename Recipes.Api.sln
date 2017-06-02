@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes.Api", "Recipes.Api\Recipes.Api.csproj", "{1E73D33E-C7AC-415F-9884-5B31445738B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes.Business", "Recipes.Business\Recipes.Business.csproj", "{48451BA7-B0A2-4E06-8C11-809D6141C085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes.Data", "Recipes.Data\Recipes.Data.csproj", "{9268F672-A2C6-436E-AF20-2AF04BE30DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E73D33E-C7AC-415F-9884-5B31445738B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E73D33E-C7AC-415F-9884-5B31445738B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E73D33E-C7AC-415F-9884-5B31445738B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E73D33E-C7AC-415F-9884-5B31445738B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48451BA7-B0A2-4E06-8C11-809D6141C085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48451BA7-B0A2-4E06-8C11-809D6141C085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48451BA7-B0A2-4E06-8C11-809D6141C085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48451BA7-B0A2-4E06-8C11-809D6141C085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9268F672-A2C6-436E-AF20-2AF04BE30DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9268F672-A2C6-436E-AF20-2AF04BE30DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9268F672-A2C6-436E-AF20-2AF04BE30DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9268F672-A2C6-436E-AF20-2AF04BE30DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

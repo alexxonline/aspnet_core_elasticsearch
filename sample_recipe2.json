@@ -1,0 +1,11 @@
+{
+    "Author": "Alex Saez",
+    "Name": "Empanadas caprese",
+    "Ingredients": ["Masa", "Tomate", "Albahaca", "Queso"],
+    "Steps": ["Sacar la masa",
+        "Poner la tomate albahaca y el queso", 
+        "Poner al horno",
+        "Esperar",
+        "Sacar del horno"
+    ]
+}
